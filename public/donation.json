@@ -8,7 +8,7 @@
         "Card_bg": "#0052ff26",
         "Text_button_bg": "#0052FF",
         "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Price": "199.99"
+        "Price": "$ 199.99"
     },
     {
         "id":"2",
@@ -19,7 +19,7 @@
         "Card_bg": "#ff444926",
         "Text_button_bg": "#f39c12",
         "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-        "Price": "49.99"
+        "Price": "$ 49.99"
     },
     {
         "id":"3",
