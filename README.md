@@ -9,6 +9,8 @@ Currently, two official plugins are available:
 
 - # Three features of project:
 -The website displays donation cards, each containing details about a specific donation campaign. They are also in different categories.
+
 -The website incorporates a feature to prevent duplicate donations. 
+
 -Users can view donation statistics through pie chart .
 
