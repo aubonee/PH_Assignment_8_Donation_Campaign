@@ -13,12 +13,18 @@ const Donationpage = () => {
         const donatedItems = JSON.parse(localStorage.getItem('donates'));
         if (donatedItems) {
             setdonationCard(donatedItems)
+            const donationLength = donatedItems.length;
+            console.log("arrayLength");
+            console.log(donationLength);
         }
         else{
             setNofound('No data found')
+           
         }
         
       }, []);
+
+      
 
       // Add an event listener to the 'beforeunload' event
 window.addEventListener('beforeunload', function(event) {
@@ -26,7 +32,7 @@ window.addEventListener('beforeunload', function(event) {
     localStorage.clear();
   });
     
-  console.log(isShow);
+
 
     return (
         <div>
