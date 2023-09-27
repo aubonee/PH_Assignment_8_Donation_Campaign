@@ -7,66 +7,77 @@
         "Category_bg": "#0052ff33",
         "Card_bg": "#0052ff26",
         "Text_button_bg": "#0052FF",
-        "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Price": "$ 199.99"
+        "Description": "Everyone has the human right to safe drinking water. This holds true in stability and in crisis, in urban and rural contexts, and in every country around the world. When children don't have access to clean water, it negatively impacts their health, nutrition, education and every other aspect of their lives.",
+        "Price": "199.99"
     },
     {
         "id":"2",
         "Picture": "https://i.ibb.co/hmnMp85/Rectangle-4288.png",
-        "Title": "Product 2",
-        "Category": "Clothing",
-        "Category_bg": "#e74c3c",
-        "Card_bg": "#ff444926",
-        "Text_button_bg": "#f39c12",
+        "Title": "Good Education",
+        "Category": "Education",
+        "Category_bg": "#ff444a33",
+        "Card_bg": "#ff444a26",
+        "Text_button_bg": "#FF444A",
         "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-        "Price": "$ 49.99"
+        "Price": "49.99"
     },
     {
         "id":"3",
-        "Picture": "https://i.ibb.co/V9wbLvD/Health.png",
-        "Title": "Used Clothing Drive",
-        "Category": "Health",
-        "Category_bg": "#0052FF",
-        "Card_bg": "#d5dbdb",
-        "Text_button_bg": "#c0392b",
-        "Description": "Phasellus in fringilla nunc, at ultricies libero.",
-        "Price": "$149.99"
-    },
-    {
-        "id":"4",
         "Picture": "https://i.ibb.co/DGj5y3H/Clothing.png",
         "Title": "Used Clothing Drive",
         "Category": "Clothing",
         "Category_bg": "#79c23f33",
         "Card_bg": "#79c23f26",
         "Text_button_bg": "#79C23F",
-        "Description": "Curabitur non ex id augue cursus dignissim.",
-        "Price": "$29.99"
+        "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "Price": "29.99"
+    },
+    {
+        "id":"4",
+        "Picture": "https://i.ibb.co/30QBzQd/Rectangle-4287-2.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#ff444a33",
+        "Card_bg": "#f8714726",
+        "Text_button_bg": "#F87147",
+        "Description": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill a specific ecological niche within specific geographical contexts.",
+        "Price": "29.99"
     },
     {
         "id":"5",
-        "Picture": "https://i.ibb.co/V9wbLvD/Health.png",
-        "Title": "Product 5",
-        "Category": "Toys & Games",
-        "Category_bg": "#27ae60",
-        "Card_bg": "#f0e68c",
-        "Text_button_bg": "#1abc9c",
-        "Description": "Vestibulum feugiat, justo at lacinia auctor.",
-        "Price": "$39.99"
+        "Picture": "https://i.ibb.co/5x1jX1z/food2.jpg",
+        "Title": " Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#ff444a33",
+        "Card_bg": "#f8714726",
+        "Text_button_bg": "#F87147",
+        "Description": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill a specific ecological niche within specific geographical contexts.",
+        "Price": "29.99"
     },
     {
         "id":"6",
         "Picture": "https://i.ibb.co/V9wbLvD/Health.png",
-        "Title": "Product 6",
-        "Category": "Electronics",
-        "Category_bg": "#3498db",
-        "Card_bg": "#ecf0f1",
-        "Text_button_bg": "#2ecc71",
-        "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-        "Price": "$299.99"
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Category_bg": "#0052ff33",
+        "Card_bg": "#0052ff26",
+        "Text_button_bg": "#0052FF",
+        "Description": "Everyone has the human right to safe drinking water. This holds true in stability and in crisis, in urban and rural contexts, and in every country around the world. When children don't have access to clean water, it negatively impacts their health, nutrition, education and every other aspect of their lives.",
+        "Price": " 199.99"
     },
     {
         "id":"7",
+        "Picture": "https://i.ibb.co/5x1jX1z/food2.jpg",
+        "Title": " Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#ff444a33",
+        "Card_bg": "#f8714726",
+        "Text_button_bg": "#F87147",
+        "Description": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill a specific ecological niche within specific geographical contexts.",
+        "Price": "29.99"
+    },
+    {
+        "id":"8",
         "Picture": "https://i.ibb.co/DGj5y3H/Clothing.png",
         "Title": "Used Clothing Drive",
         "Category": "Clothing",
@@ -74,51 +85,40 @@
         "Card_bg": "#79c23f26",
         "Text_button_bg": "#79C23F",
         "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-        "Price": "$29.99"
-    },
-    {
-        "id":"8",
-        "Picture": "https://i.ibb.co/V9wbLvD/Health.png",
-        "Title": "Product 8",
-        "Category": "Home & Garden",
-        "Category_bg": "#9b59b6",
-        "Card_bg": "#d5dbdb",
-        "Text_button_bg": "#c0392b",
-        "Description": "Fusce id dolor eu quam viverra consequat.",
-        "Price": "$99.99"
+        "Price": "29.99"
     },
     {
         "id":"9",
-        "Picture": "https://i.ibb.co/V9wbLvD/Health.png",
-        "Title": "Product 9",
-        "Category": "Beauty",
-        "Category_bg": "#f1c40f",
-        "Card_bg": "#f5f5f5",
-        "Text_button_bg": "#e67e22",
-        "Description": "Mauris ut vehicula arcu, eu sollicitudin nisi.",
-        "Price": "$49.99"
+        "Picture": "https://i.ibb.co/5x1jX1z/food2.jpg",
+        "Title": " Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#ff444a33",
+        "Card_bg": "#f8714726",
+        "Text_button_bg": "#F87147",
+        "Description": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill a specific ecological niche within specific geographical contexts.",
+        "Price": "29.99"
     },
     {
         "id":"10",
-        "Picture": "https://i.ibb.co/V9wbLvD/Health.png",
-        "Title": "Product 10",
-        "Category": "Toys & Games",
-        "Category_bg": "#27ae60",
-        "Card_bg": "#f0e68c",
-        "Text_button_bg": "#1abc9c",
-        "Description": "Donec tincidunt augue non justo convallis.",
-        "Price": "$59.99"
-    },
-    {
-        "id":"11",
         "Picture": "https://i.ibb.co/DGj5y3H/Clothing.png",
         "Title": "Used Clothing Drive",
         "Category": "Clothing",
         "Category_bg": "#79c23f33",
         "Card_bg": "#79c23f26",
         "Text_button_bg": "#79C23F",
-        "Description": "Curabitur non ex id augue cursus dignissim.",
-        "Price": "$29.99"
+        "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "Price": "29.99"
+    },
+    {
+        "id":"11",
+        "Picture": "https://i.ibb.co/hmnMp85/Rectangle-4288.png",
+        "Title": "Good Education",
+        "Category": "Education",
+        "Category_bg": "#ff444a33",
+        "Card_bg": "#ff444a26",
+        "Text_button_bg": "#FF444A",
+        "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "Price": "49.99"
     },
     {
         "id":"12",
@@ -129,6 +129,6 @@
         "Card_bg": "#0052ff26",
         "Text_button_bg": "#0052FF",
         "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Price": "$199.99"
+        "Price": "199.99"
     }
 ]

@@ -12,7 +12,7 @@ const Donationscard = ({donation}) => {
  <Link to={`/Donations/${id}`} relative="path">
      <div className=" flex w-[350px] flex-col rounded-xl bg-white " style={{ backgroundColor: Card_bg }} >
   <div className=" mx-0 h-56  rounded-xl   text-white " >
-    <img src={Picture} alt="img-blur-shadow" style={{ width: '350px' }}/>
+    <img src={Picture} alt="img-blur-shadow" className='rounded-t-lg' style={{ width: '350px',height:'200px', }}/>
   </div>
   <div className=""></div>
   <h2 className="  w-max block font-sans rounded-md text-md font-semibold py-1 px-1 mx-2 mb-2" style={{ backgroundColor: Category_bg  ,color: Text_button_bg }}>{Category}</h2>

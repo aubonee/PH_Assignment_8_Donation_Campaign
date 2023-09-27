@@ -61,7 +61,7 @@ const Donationcard = ({ detail }) => {
             <div className='mx-auto mt-5 w-5/6'>
                <div className='w-full h-max-[90vh] lg:h-[90vh] flex bg-[]justify-center items-center relative' > 
                {/* style={{ backgroundImage: `url(${Picture})` }} */}
-               <img className='w-full h-max-[90vh] lg:h-[90vh]' src={Picture} alt="" style={{ }}/>
+               <img className='w-full h-max-[90vh] lg:h-[90vh] rounded-t-lg' src={Picture} alt="" style={{ }}/>
                <div className=" w-full donate-button  h-[100px] bg-[#0B0B0B80] absolute bottom-0 mb-0"> 
                <button onClick={handleAddToDonation} className='my-auto p-5 ml-7 mt-5 rounded-md text-xl' style={{ backgroundColor:Text_button_bg, color:'white'}} > Donate ${Price}</button>
                </div>
